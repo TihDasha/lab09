@@ -1,0 +1,19 @@
+Start testing: Aug 17 01:00 MSK
+----------------------------------------------------------
+Unable to find executable: check
+1/1 Testing: check
+1/1 Test: check
+Command: ""
+Directory: /home/daria/TihDasha/workspace/projects/lab07/_builds/default
+"check" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Aug 17 01:00 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 17 01:00 MSK
